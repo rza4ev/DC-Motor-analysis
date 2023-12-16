@@ -1,9 +1,6 @@
 # DC-Motor-analysis
 Analytical model and PID controller implementation for a DC motor system. This repository provides a systematic approach to understanding DC motor dynamics, modeling, and tuning PID controllers for precise control applications.
-Team members:Niyyat Rzayev,Shakir Gadirov,Ramid Nazarov
-Subject:Process Control
-Teacher:Burhan Mohoyaddin
-Task:DC Motor Analysis in Python
+
 Reporting
 DCMOTOR.py-file
 import numpy as np
